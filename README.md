@@ -1,0 +1,2 @@
+# databricks_ml_practitioner_learning_plan
+Materials to prepare for the Databricks Machine Learning Practitioner Professional certification
